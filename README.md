@@ -1,2 +1,1 @@
-# Sample
 This repository is to test dynamic workflow builder
