@@ -1,1 +1,1 @@
-Hello from LG
+This is a test.
